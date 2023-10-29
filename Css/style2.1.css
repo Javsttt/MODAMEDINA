@@ -1,0 +1,105 @@
+body {
+  background:#fff;
+}
+#header nav a, #header i {
+  color:#111;
+}
+.primary-color, .primary-color .section-title, .primary-color .section-subtitle p {
+  color:#fff;    
+}
+
+.text-center .section-heading h2:after {
+  margin:30px auto 25px auto;
+}
+
+
+.secondary-color {
+  background-color:#000000;
+}
+#banner {
+  background: url("../IMAGENES/banner/banner2.4.jpg") no-repeat center top;
+  background-size:cover;
+}
+body {
+  font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+  font-size:15px;
+  font-weight:normal;
+  color:#000000;
+}
+#banner h1 {
+  font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+  font-size:62px;
+  line-height:60px;
+  font-weight:800;
+  color:#ffffff;
+}
+
+#banner h2 {
+  font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+  font-size:18px;
+  font-weight:300;
+  color:#ffffff;
+}
+
+.section-title {
+  font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+  font-size: 34px; 
+  font-weight:700;
+  color:#111;
+}
+
+.section-subtitle {
+  font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+  font-size: 16px;
+  font-weight:300;
+  color:#9c9c9c;
+}
+
+h1 {
+  font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+  font-size: 40px; 
+  font-weight:300;
+  color:#111;
+}
+h2 {
+  font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+  font-size: 34px; 
+  font-weight:300;
+  color:#111;
+}
+
+h3 {
+  font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+  font-size: 30px; 
+  font-weight:700;
+  color:#111;
+}
+
+h4 {
+  font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+  font-size: 18px; 
+  font-weight:400;
+  color:#111;
+}
+h5 {
+  font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+  font-size: 16px; 
+  font-weight:400;
+  color:#111;
+}
+h6 {
+  font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+  font-size: 14px; 
+  font-weight:400;
+  color:#111;
+}
+
+#landing-footer, #landing-footer p, #landing-footer a {
+  font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+  font-size:12px;
+  font-weight:normal;
+  color:#999;
+}
+#landing-footer i {
+  color:#999;
+}
